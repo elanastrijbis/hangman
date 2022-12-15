@@ -62,6 +62,7 @@ function App() {
   return (
     <div
       style={{
+        height: '100vh',
         maxWidth: '800px',
         display: 'flex',
         flexDirection: 'column',
